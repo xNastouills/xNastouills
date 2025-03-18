@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Salut, je suis Antoine (xNastouills)</h1>
+  <h1>👋 Salut, je suis Antoine (xNastouils)</h1>
   <p>Étudiant en Bac Pro CIEL | Passionné d'informatique et d'électronique</p>
 </div>
 
