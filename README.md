@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antoine Sarrazin.</h1>
+<h1 align="center">Hi 👋, I'm Antoine Sarrazin</h1>
 <h3 align="center">Currently a high school student, passionate about computers since his younger years, I practice many things in development and electronics.</h3>
 
 - 🔭 I’m currently working on **Secret project 🤫**
