@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Antoine Sarrazin</h1>
+<h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">Currently a high school student, passionate about computers since his younger years, I practice many things in development and electronics.</h3>
 
 - 🔭 I’m currently working on **Secret project 🤫**
 
 - 📫 How to reach me **antoine.sarrazin.contact@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/xnastouils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xnastouils" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
