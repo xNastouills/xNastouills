@@ -8,7 +8,7 @@
 ### À propos de moi
 - 🎓 Lycéen explorant le développement et l’électronique depuis petit.
 - 🔭 En cours : **Projet secret 🤫**.
-- 📫 Contact : **antoine.sarrazin.contact@gmail.com**.
+- 📫 Contact : **antoine.sarrazin.contact@gmail.com**
 
 ---
 
