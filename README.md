@@ -14,9 +14,9 @@ et les technologies open-source.
 
 ## 🚀 À propos de moi
 
-- 🎓 Lycéen passionné d’informatique et d’électronique depuis plusieurs années  
+- 🎓 Lycéen passionné d’informatique et d’électronique depuis mon enfance  
 - 🔬 Curieux, autonome et toujours en quête de nouveaux défis techniques  
-- 🔭 Actuellement en développement sur un **projet confidentiel 🤫**  
+- 🔭 Actuellement en développement sur **[inaris.eu](https://inaris.eu)**  
 - 📫 **Contact** : `antoine.sarrazin.contact@gmail.com`
 
 ---
@@ -88,7 +88,6 @@ et les technologies open-source.
 <div align="center">
 
 💡 *Toujours motivé pour apprendre, expérimenter et progresser.*  
-🚀 *Objectif : devenir un développeur et technicien polyvalent.*
 
 </div>
 
