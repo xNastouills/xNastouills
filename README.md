@@ -57,6 +57,12 @@ Networking utility tool focused on:
 
 📧 `antoine.contact@gmail.com`
 
+<p align="left">
+  <a href="https://discord.com/users/xnastouils">
+    <img src="https://img.shields.io/badge/Discord-xnastouils-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
