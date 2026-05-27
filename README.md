@@ -2,92 +2,93 @@
 
 # 👋 Antoine — *xNastouills*
 
-🎓 **Étudiant en Bac Pro CIEL**  
-💻 Informatique • ⚡ Électronique • 🌐 Réseaux
+💻 Étudiant en informatique • 🎓 Futur étudiant à Epitech  
+🔧 Développement • 🌐 Réseaux • ⚙️ Systèmes • 🔌 Électronique
 
-Passionné par les systèmes informatiques, le développement logiciel  
-et les technologies open-source.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Passionn%C3%A9+d'informatique+et+de+syst%C3%A8mes;Toujours+en+train+d'apprendre+%F0%9F%9A%80;Build+%7C+Break+%7C+Learn" />
 
 </div>
 
 ---
 
-## 🚀 À propos de moi
+## 🧠 À propos de moi
 
-- 🎓 Lycéen passionné d’informatique et d’électronique depuis mon enfance  
-- 🔬 Curieux, autonome et toujours en quête de nouveaux défis techniques  
-- 🔭 Actuellement en développement sur **[inaris.eu](https://inaris.eu)**  
-- 📫 **Contact** : `antoine.sarrazin.contact@gmail.com`
+Je suis un étudiant passionné par l’informatique dans son ensemble, avec un intérêt particulier pour :
+
+- le développement logiciel
+- les systèmes et Linux
+- les réseaux informatiques
+- l’électronique et les systèmes embarqués
+- la compréhension du fonctionnement bas niveau des technologies
+
+J’aime apprendre en pratiquant, en construisant des projets concrets plutôt que seulement théoriques.
 
 ---
 
-## 🧠 Compétences techniques
+## ⚙️ Compétences
 
-### 💻 Langages de programmation
+### 💻 Programmation
+- C 
+- Python
+- Java (bases)
+
+### 🌐 Web
+- HTML / CSS
+- Front-end basics
+- APIs REST
+
+### 🧰 Systèmes & outils
+- Linux (usage quotidien)
+- Git / GitHub
+- Docker (bases)
+- Bash scripting
+
+### 🔌 Électronique & réseau
+- Arduino
+- Bases réseau (IP, sous-réseaux)
+- Compréhension hardware
+
+---
+
+## 🚀 Projets
+
+### 🔹 User Service (CI/CD Project)
+Petit service web développé pour apprendre :
+- Flask API simple
+- tests automatisés
+- Docker
+- déploiement sur VPS
+- GitHub Actions
+
+👉 Projet réalisé dans un but d’apprentissage DevOps et automatisation.
+
+---
+
+### 🔹 SubNetFinder
+Outil réseau pour :
+- calculs d’adresses IP
+- subnetting
+- compréhension réseau
+  
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" title="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xNastouills&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🎨 Front-End & UI
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" title="React"/>
-</p>
+## 📫 Contact
 
----
-
-### 🛠️ Outils, systèmes & DevOps
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42" title="Arduino"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="42" title="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42" title="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" title="Nginx"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" title="Node.js"/>
-</p>
-
----
-
-### 🗄️ Bases de données & Messaging
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="42" title="MariaDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="42" title="Redis"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="42" title="RabbitMQ"/>
-</p>
-
----
-
-## 📂 Projets notables
-
-🔹 **[SubNetFinder](https://github.com/xNastouills/SubNetFinder)**  
-> Outil web dédié aux **calculs réseau**, à la **subnetting**  
-> et aux **conversions d’adresses IP**.
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xNastouills&show_icons=true&theme=dark&hide_border=true" />
-</p>
+- Email : `antoine.sarrazin.contact@gmail.com`
+- GitHub : [xNastouills](https://github.com/xNastouills)
 
 ---
 
 <div align="center">
 
-💡 *Toujours motivé pour apprendre, expérimenter et progresser.*  
+💡 *Apprendre, comprendre, construire.*
 
 </div>
-
