@@ -55,7 +55,7 @@ Networking utility tool focused on:
 
 ## 📫 Contact
 
-📧 `https://www.linkedin.com/in/antoine-sarrazin-b48943400?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+📧 `antoine.contact@gmail.com`
 
 ---
 
