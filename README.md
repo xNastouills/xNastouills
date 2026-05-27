@@ -1,75 +1,48 @@
 <div align="center">
 
-# 👋 Antoine — *xNastouills*
+# ✨ Antoine Sarrazin
 
-💻 Étudiant en informatique • 🎓 Futur étudiant à Epitech  
-🔧 Développement • 🌐 Réseaux • ⚙️ Systèmes • 🔌 Électronique
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Future+Software+Engineer;Epitech+Student+Incoming;Systems+%7C+Networks+%7C+Development;Building+real+projects+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Passionn%C3%A9+d'informatique+et+de+syst%C3%A8mes;Toujours+en+train+d'apprendre+%F0%9F%9A%80;Build+%7C+Break+%7C+Learn" />
+### 💻 Developer • 🧠 Systems • 🌐 Networks • ⚙️ Tech Enthusiast
 
 </div>
 
 ---
 
-## 🧠 À propos de moi
+## 🧠 About me
 
-Je suis un étudiant passionné par l’informatique dans son ensemble, avec un intérêt particulier pour :
+Passionate about computer science, I enjoy building real projects to understand how systems work at a low level.
 
-- le développement logiciel
-- les systèmes et Linux
-- les réseaux informatiques
-- l’électronique et les systèmes embarqués
-- la compréhension du fonctionnement bas niveau des technologies
-
-J’aime apprendre en pratiquant, en construisant des projets concrets plutôt que seulement théoriques.
+I focus on:
+- software development
+- operating systems & Linux
+- networking fundamentals
+- practical learning through projects
 
 ---
 
-## ⚙️ Compétences
+## 🚀 Projects
 
-### 💻 Programmation
-- C 
-- Python
-- Java (bases)
+### 🔹 User Service
+Web API built with Flask featuring a complete DevOps workflow:
+- Docker containerization
+- automated testing (pytest)
+- CI/CD pipeline (GitHub Actions)
+- automatic deployment on VPS
 
-### 🌐 Web
-- HTML / CSS
-- Front-end basics
-- APIs REST
-
-### 🧰 Systèmes & outils
-- Linux (usage quotidien)
-- Git / GitHub
-- Docker (bases)
-- Bash scripting
-
-### 🔌 Électronique & réseau
-- Arduino
-- Bases réseau (IP, sous-réseaux)
-- Compréhension hardware
-
----
-
-## 🚀 Projets
-
-### 🔹 User Service (CI/CD Project)
-Petit service web développé pour apprendre :
-- Flask API simple
-- tests automatisés
-- Docker
-- déploiement sur VPS
-- GitHub Actions
-
-👉 Projet réalisé dans un but d’apprentissage DevOps et automatisation.
+👉 Goal: understand modern software delivery pipelines end-to-end.
 
 ---
 
 ### 🔹 SubNetFinder
-Outil réseau pour :
-- calculs d’adresses IP
-- subnetting
-- compréhension réseau
-  
+Networking utility tool focused on:
+- IP address manipulation
+- subnet calculation
+- network structure understanding
+
+👉 Goal: strengthen fundamentals in computer networks.
+
 ---
 
 ## 📊 GitHub Stats
@@ -78,17 +51,20 @@ Outil réseau pour :
   <img src="https://github-readme-stats.vercel.app/api?username=xNastouills&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xNastouills&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 📫 Contact
 
-- Email : `antoine.sarrazin.contact@gmail.com`
-- GitHub : [xNastouills](https://github.com/xNastouills)
+📧 `antoine.sarrazin.contact@gmail.com`
 
 ---
 
 <div align="center">
 
-💡 *Apprendre, comprendre, construire.*
+💡 *Build. Understand. Improve. Repeat.*
 
 </div>
