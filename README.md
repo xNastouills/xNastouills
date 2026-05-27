@@ -48,10 +48,6 @@ Networking utility tool focused on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xNastouills&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=xNastouills&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -59,12 +55,12 @@ Networking utility tool focused on:
 
 ## 📫 Contact
 
-📧 `antoine.sarrazin.contact@gmail.com`
+📧 `https://www.linkedin.com/in/antoine-sarrazin-b48943400?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 
 <div align="center">
 
-💡 *Build. Understand. Improve. Repeat.*
+💡 *"Love is never simple, because it is never binary."*
 
 </div>
