@@ -55,7 +55,7 @@ Networking utility tool focused on:
 
 ## 📫 Contact
 
-📧 `antoine.contact@gmail.com`
+📧 `antoine.sarrazin@epitech.eu`
 
 <p align="left">
   <a href="https://discord.com/users/xnastouils">
