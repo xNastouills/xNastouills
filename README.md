@@ -2,7 +2,7 @@
 
 # ✨ Antoine Sarrazin
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Future+Software+Engineer;Epitech+Student+Incoming;Systems+%7C+Networks+%7C+Development;Building+real+projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Future+Software+Engineer;Epitech+Student;Systems+%7C+Networks+%7C+Development;Building+real+projects+%F0%9F%9A%80" />
 
 ### 💻 Developer • 🧠 Systems • 🌐 Networks • ⚙️ Tech Enthusiast
 
