@@ -35,16 +35,6 @@ Web API built with Flask featuring a complete DevOps workflow:
 
 ---
 
-### 🔹 SubNetFinder
-Networking utility tool focused on:
-- IP address manipulation
-- subnet calculation
-- network structure understanding
-
-👉 Goal: strengthen fundamentals in computer networks.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
