@@ -19,20 +19,7 @@ I focus on:
 - operating systems & Linux
 - networking fundamentals
 - practical learning through projects
-
----
-
-## 🚀 Projects
-
-### 🔹 User Service
-Web API built with Flask featuring a complete DevOps workflow:
-- Docker containerization
-- automated testing (pytest)
-- CI/CD pipeline (GitHub Actions)
-- automatic deployment on VPS
-
-👉 Goal: understand modern software delivery pipelines end-to-end.
-
+  
 ---
 
 ## 📊 GitHub Stats
