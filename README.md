@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About me
+## 🧠 About me 
 
 Passionate about computer science, I enjoy building real projects to understand how systems work at a low level.
 
